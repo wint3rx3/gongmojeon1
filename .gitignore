@@ -1,15 +1,11 @@
-# 가상환경 무시
 venv/
 .venv/
-
-# Jupyter notebook 체크포인트
 .ipynb_checkpoints/
 
-# 데이터 폴더 무시
 data/
 data_shp/
 output/
 
-
-# 환경 변수 파일 무시
+.gitattributes
+.gitignore
 .env
